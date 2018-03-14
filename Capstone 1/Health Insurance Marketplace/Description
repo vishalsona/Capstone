@@ -1,3 +1,5 @@
-This folder contain all the codes i.e. the jupyter notebook which are in two parts
-1. EDA(Explanatory Data Analysis) 
-2. Machine Learning part
+1. This folder contain all the codes i.e. the jupyter notebook which are in two parts,
+   1.1. EDA(Explanatory Data Analysis) - Healthcare_Exchange.ipynb
+   1.2. Machine Learning part - Healthcare_Exchange_ML.ipynb
+2. Project Report - HIM_Report.pdf
+3. Presentation - HIM_Presentation.pdf
